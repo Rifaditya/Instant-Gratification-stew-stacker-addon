@@ -1,0 +1,40 @@
+{
+    "schemaVersion": 1,
+    "id": "stew-stacker-addon",
+    "version": "${version}",
+    "name": "Stew Stacker Addon",
+    "description": "An addon for Stack Size Adjuster that allows customizing stack limits for stews and soups dynamically using GameRules or configuration screens.",
+    "authors": [
+        "Dasik (Rifaditya)"
+    ],
+    "contact": {
+        "homepage": "https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon",
+        "sources": "https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon"
+    },
+    "license": "GPL-3.0-or-later",
+    "icon": "assets/stew-stacker-addon/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "net.instantgratification.stewstacker.StewStackerFabric"
+        ],
+        "client": [
+            "net.instantgratification.stewstacker.StewStackerFabricClient"
+        ],
+        "modmenu": [
+            "net.instantgratification.stewstacker.config.ModMenuIntegration"
+        ]
+    },
+    "depends": {
+        "fabricloader": ">=0.19.1",
+        "minecraft": "${minecraft_dependency}",
+        "java": ">=25",
+        "fabric-api": "*",
+        "dasik-library": "*",
+        "stack-size-adjuster": ">=1.4.10+26.2"
+    },
+    "suggests": {
+        "cloth-config": "*",
+        "modmenu": "*"
+    }
+}
