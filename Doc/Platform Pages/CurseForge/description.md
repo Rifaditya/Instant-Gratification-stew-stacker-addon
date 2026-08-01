@@ -1,23 +1,20 @@
-﻿<p align="center">
+<p align="center">
     <a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api"><img src="https://img.shields.io/badge/Requires-Fabric_API-blue?style=for-the-badge&logo=fabric" alt="Requires Fabric API"></a>
     <a href="https://www.curseforge.com/minecraft/mc-mods/stack-size-adjuster"><img src="https://img.shields.io/badge/Requires-Stack_Size_Adjuster-blue?style=for-the-badge" alt="Requires Stack Size Adjuster"></a>
     <img src="https://img.shields.io/badge/Language-Java_25-orange?style=for-the-badge&logo=java" alt="Java 25">
     <img src="https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge" alt="License">
-    <img src="https://img.shields.io/badge/Minecraft-26.2+-brightgreen?style=for-the-badge" alt="Minecraft 26.2+">
+    <img src="https://img.shields.io/badge/Minecraft-26.+-brightgreen?style=for-the-badge" alt="Minecraft 26.+">
 </p>
 
 # 🍲 Stew Stacker Addon
 
-### 🎮 Version Compatibility & Parity
+<strong>No Backports:</strong> This mod targets <strong>Minecraft 26.+</strong>. Older versions are unsupported.
 
-This mod is active and fully supported:
-* **Minecraft 26.2+**: Active support
+<blockquote><strong>Stack your stews. Consolidate your inventory.</strong></blockquote>
 
- <blockquote><strong>Stack your stews. Consolidate your inventory.</strong></blockquote>
+Tired of stews and soups cluttering your inventory slots and taking up valuable backpack space? <strong>Stew Stacker Addon</strong> is a dedicated addon for <strong><a href="https://www.curseforge.com/minecraft/mc-mods/stack-size-adjuster">Stack Size Adjuster</a></strong> that allows mushroom stews, rabbit stews, beetroot soups, and suspicious stews to stack up to a customizable limit. Keep your food resources compact and ready for adventure.
 
-Tired of stews and soups cluttering your inventory slots and taking up valuable backpack space? **Stew Stacker Addon** is a dedicated addon for **<a href="https://www.curseforge.com/minecraft/mc-mods/stack-size-adjuster">Stack Size Adjuster</a>** that allows mushroom stews, rabbit stews, beetroot soups, and suspicious stews to stack up to a customizable limit. Keep your food resources compact and ready for adventure.
-
-Part of the **Instant Gratification Collection** — mods that respect the player's time.
+Part of the <strong>Instant Gratification Collection</strong> — mods that respect the player's time.
 
 ---
 
@@ -84,7 +81,6 @@ If you enjoy the **Instant Gratification** collection, consider supporting devel
     <strong>License & Forks:</strong><br>
     Since the source code is licensed under <strong>GNU GPLv3</strong>, you are fully permitted to fork the repository, make modifications, build your own versions, and distribute them under the terms of the GPLv3. The prohibition on third-party redistribution applies exclusively to the official compiled releases/jars published by the original creator (Dasik/Rifaditya). Forks must be published as distinct projects, not direct re-uploads of official builds.
 </blockquote>
-
 
 ---
 
