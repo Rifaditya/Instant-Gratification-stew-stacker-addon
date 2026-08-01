@@ -5,4 +5,4 @@ Open this file in your editor and change `[ ]` to `[x]` when you publish a versi
 
 ## 🚀 Published & Backlog Queue
 
-- [ ] **`1.0.0+26.2`** (2026-07-15) - - Stew Stacker Addon Initial Release. - - Initial release of Stew Stacker Addon mod with independent custom stack limits for stews/soups configurable via YACL and GameRules.
+- [x] **`1.0.0+26.2`** (2026-07-15) - - Stew Stacker Addon Initial Release. - - Initial release of Stew Stacker Addon mod with independent custom stack limits for stews/soups configurable via YACL and GameRules.
