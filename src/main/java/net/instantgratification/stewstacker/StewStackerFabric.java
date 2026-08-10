@@ -37,8 +37,9 @@ public class StewStackerFabric implements ModInitializer {
         StewStackerConfig.load(FabricLoader.getInstance().getConfigDir());
 
         // Register custom stack size override into Stack Size Adjuster's manager
-        net.instantgratification.stacksizeadjuster.util.StackSizeManager.registerOverride((item, originalSize) -> 
-            StewStackerManager.getModifiedStackSize(item, originalSize)
+        net.instantgratification.stacksizeadjuster.util.StackSizeManager.registerOverride(
+            (net.instantgratification.stacksizeadjuster.util.CustomStackSizeOverride) (item, originalSize) -> 
+                StewStackerManager.getModifiedStackSize(item, originalSize)
         );
 
         // Register Stew Limit GameRule with dynamic default loaded from baseline config

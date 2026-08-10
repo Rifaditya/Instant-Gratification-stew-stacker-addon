@@ -26,7 +26,7 @@ dependencies {
     implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 
     implementation "net.dasik.social:dasik-library:${project.dasik_library_version}"
-    implementation "net.instantgratification:stack-size-adjuster:1.4.10+26.2"
+    implementation "net.instantgratification:stack-size-adjuster:1.4.18+26.2"
 
     // Optional GUI Dependencies (compile-only required, runtime-optional for players)
     compileOnly "dev.isxander:yet-another-config-lib:3.9.5+26.2-fabric"
