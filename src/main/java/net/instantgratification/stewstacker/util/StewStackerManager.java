@@ -21,7 +21,7 @@ public class StewStackerManager {
         if (isStewOrSoup(item)) {
             return stewLimit;
         }
-        return original;
+        return -1;
     }
 
     public static boolean isStewOrSoup(Item item) {
