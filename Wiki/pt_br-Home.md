@@ -1,6 +1,6 @@
 # 🍲 Instant Gratification: Stew Stacker Addon Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]] | [[🏠 Início da Wiki|pt_br-Home]]
 
 > 📌 **Aviso sobre o Código-Fonte do Repositório**: A documentação desta Wiki reflete o **estado atual do código-fonte no repositório**, podendo incluir alterações recentes ainda não lançadas no CurseForge ou Modrinth.
 
@@ -12,8 +12,8 @@ Bem-vindo à documentação técnica oficial do **Instant Gratification: Stew St
 
 | Versão do Minecraft | Versão do Mod | Fabric Loader | Link do Portal |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 Início da Wiki|pt_br-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 Início da Wiki|pt_br-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@ Bem-vindo à documentação técnica oficial do **Instant Gratification: Stew St
 
 ## 📚 Centros Essenciais de Documentação
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 Matriz de Compatibilidade de Versões|pt_br-Version-Compatibility]]
+* [[🔧 Solução de Problemas e FAQ|pt_br-Troubleshooting-and-FAQ]]
+* [[🛠️ Configuração de Desenvolvedor e Compilação|pt_br-Developer-Setup-and-Building]]
+* [[🏠 Início da Wiki|pt_br-Home]]

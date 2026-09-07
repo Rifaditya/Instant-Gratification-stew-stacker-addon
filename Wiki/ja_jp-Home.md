@@ -1,6 +1,6 @@
 # 🍲 Instant Gratification: Stew Stacker Addon Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]] | [[🏠 Wiki ホーム|ja_jp-Home]]
 
 > 📌 **リポジトリソース免責事項**: 本 Wiki の技術ドキュメントは、**リポジトリ内の最新ソースコード状態**を反映しており、CurseForge や Modrinth での公開リリース前の最新コミットや開発中の機能が含まれている場合があります。
 
@@ -12,8 +12,8 @@
 
 | 対象 Minecraft バージョン | Mod バージョン | Fabric Loader | ポータルリンク |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 Wiki ホーム|ja_jp-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 Wiki ホーム|ja_jp-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📚 関連ドキュメントリンク
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 バージョン互換性マトリクス|ja_jp-Version-Compatibility]]
+* [[🔧 トラブルシューティング & FAQ|ja_jp-Troubleshooting-and-FAQ]]
+* [[🛠️ 開発環境セットアップ & 統合ビルドガイド|ja_jp-Developer-Setup-and-Building]]
+* [[🏠 Wiki ホーム|ja_jp-Home]]

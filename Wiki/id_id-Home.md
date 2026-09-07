@@ -1,6 +1,6 @@
 # 🍲 Instant Gratification: Stew Stacker Addon Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]] | [[🏠 Beranda Wiki|id_id-Home]]
 
 > 📌 **Pernyataan Sumber Repositori**: Dokumentasi dalam Wiki ini mencerminkan **kondisi kode sumber terkini dalam repositori**, yang mungkin mencakup komit terbaru yang belum dirilis pada CurseForge dan Modrinth.
 
@@ -12,8 +12,8 @@ Selamat datang di dokumentasi teknis resmi untuk **Instant Gratification: Stew S
 
 | Versi Minecraft | Versi Mod | Fabric Loader | Tautan Portal |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 Beranda Wiki|id_id-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 Beranda Wiki|id_id-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@ Selamat datang di dokumentasi teknis resmi untuk **Instant Gratification: Stew S
 
 ## 📚 Pusat Dokumentasi Penting
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 Matriks Kompatibilitas Versi|id_id-Version-Compatibility]]
+* [[🔧 Panduan Pemecahan Masalah & FAQ|id_id-Troubleshooting-and-FAQ]]
+* [[🛠️ Pengaturan Pengembang & Panduan Build Terpadu|id_id-Developer-Setup-and-Building]]
+* [[🏠 Beranda Wiki|id_id-Home]]

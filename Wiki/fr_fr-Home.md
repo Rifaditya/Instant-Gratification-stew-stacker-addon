@@ -1,6 +1,6 @@
 # 🍲 Instant Gratification: Stew Stacker Addon Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]] | [[🏠 Accueil du Wiki|fr_fr-Home]]
 
 > 📌 **Avertissement sur la source du dépôt** : La documentation de ce Wiki reflète **l'état actuel du code source dans le dépôt**, qui peut inclure des modifications non publiées en avance sur CurseForge et Modrinth.
 
@@ -12,8 +12,8 @@ Bienvenue sur la documentation technique officielle de **Instant Gratification: 
 
 | Version de Minecraft | Version du Mod | Fabric Loader | Lien vers le Portail |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 Accueil du Wiki|fr_fr-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 Accueil du Wiki|fr_fr-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@ Bienvenue sur la documentation technique officielle de **Instant Gratification: 
 
 ## 📚 Liens Utiles de Documentation
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 Matrice de Compatibilité des Versions|fr_fr-Version-Compatibility]]
+* [[🔧 Dépannage et FAQ|fr_fr-Troubleshooting-and-FAQ]]
+* [[🛠️ Configuration Développeur & Compilation|fr_fr-Developer-Setup-and-Building]]
+* [[🏠 Accueil du Wiki|fr_fr-Home]]

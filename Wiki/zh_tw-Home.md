@@ -1,6 +1,6 @@
 # 🍲 即時滿足：燉菜堆疊擴展 Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]] | [[🏠 維基首頁|zh_tw-Home]]
 
 > 📌 **代碼倉庫來源聲明**：本 Wiki 中的技術文檔反映了**代碼倉庫中當前的源代碼狀態**，可能包含領先於 CurseForge 與 Modrinth 正式發布版本的未發布提交或開發中特性。
 
@@ -12,8 +12,8 @@
 
 | Minecraft Target | Mod Version | Fabric Loader | Portal Link |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 維基首頁|zh_tw-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 維基首頁|zh_tw-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📚 重要文檔鏈接
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 版本相容性矩陣|zh_tw-Version-Compatibility]]
+* [[🔧 疑難排解與常見問題|zh_tw-Troubleshooting-and-FAQ]]
+* [[🛠️ 開發者環境配置與構建指南|zh_tw-Developer-Setup-and-Building]]
+* [[🏠 維基首頁|zh_tw-Home]]

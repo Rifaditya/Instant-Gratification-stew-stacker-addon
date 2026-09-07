@@ -1,6 +1,6 @@
 # 🍲 Instant Gratification: Stew Stacker Addon Wiki
 
-🌐 **Languages**: [[🇺🇸 English|Home]] | [[🇨🇳 简体中文|zh_cn-Home]] | [[🇭🇰 繁體中文|zh_tw-Home]] | [[🇷🇺 Русский|ru_ru-Home]] | [[🇪🇸 Español|es_es-Home]] | [[🇩🇪 Deutsch|de_de-Home]] | [[🇫🇷 Français|fr_fr-Home]] | [[🇧🇷 Português|pt_br-Home]] | [[🇯🇵 日本語|ja_jp-Home]] | [[🇮🇩 Bahasa Indonesia|id_id-Home]] | [[🇰🇷 한국어|ko_kr-Home]]
+🌐 **Languages**: [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]] | [[🏠 Главная страница|ru_ru-Home]]
 
 > 📌 **Заявление об исходном коде репозитория**: Документация в этой Wiki отражает **текущее состояние исходного кода в репозитории**, которое может включать недавние невыпущенные коммиты или разрабатываемые функции до официальных релизов на CurseForge и Modrinth.
 
@@ -12,8 +12,8 @@
 
 | Версия Minecraft | Версия мода | Fabric Loader | Ссылка на портал |
 | :--- | :---: | :---: | :--- |
-| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[👉 Enter Minecraft 26.2 Documentation Portal|26.2-Home]] |
-| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[👉 Enter Minecraft 26.3 Documentation Portal|26.3-Home]] |
+| **Minecraft 26.2** | `1.0.2+26.2` | `>=0.19.1` | [[🏠 Главная страница|ru_ru-Home]] |
+| **Minecraft 26.3** | `1.0.2+26.3` | `>=0.19.3` | [[🏠 Главная страница|ru_ru-Home]] |
 
 ---
 
@@ -37,7 +37,7 @@
 
 ## 📚 Основные разделы документации
 
-* [[📊 Version Compatibility Matrix|Version-Compatibility]]
-* [[🔧 Troubleshooting & FAQ Guide|Troubleshooting-and-FAQ]]
-* [[🛠️ Developer Setup & Build Guide|Developer-Setup-and-Building]]
-* [[🏠 Return to Main Home Portal|Home]]
+* [[📊 Матрица совместимости версий|ru_ru-Version-Compatibility]]
+* [[🔧 Устранение неполадок и FAQ|ru_ru-Troubleshooting-and-FAQ]]
+* [[🛠️ Среда разработчика и руководство по сборке|ru_ru-Developer-Setup-and-Building]]
+* [[🏠 Главная страница|ru_ru-Home]]
