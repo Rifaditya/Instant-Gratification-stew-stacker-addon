@@ -1,125 +1,91 @@
 <p align="center">
-  <a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api"><img src="https://img.shields.io/badge/Requires-Fabric_API-blue?style=for-the-badge&amp;logo=fabric" alt="Requires Fabric API"></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/dasik-libary"><img src="https://img.shields.io/badge/Requires-Dasik_Library-8A2BE2?style=for-the-badge" alt="Requires Dasik Library"></a>
-  <a href="https://www.curseforge.com/minecraft/mc-mods/ig-stack-size-adjuster"><img src="https://img.shields.io/badge/Requires-Stack_Size_Adjuster-blue?style=for-the-badge" alt="Requires Stack Size Adjuster"></a>
-  <img src="https://img.shields.io/badge/Language-Java_25-orange?style=for-the-badge&amp;logo=java" alt="Java 25">
-  <img src="https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge" alt="License GPLv3">
-  <img src="https://img.shields.io/badge/Minecraft-26.2+-brightgreen?style=for-the-badge" alt="Minecraft 26.2+">
+<a href="https://discord.gg/EV99bgAFqb"><img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join Discord"></a>
+<a href="https://modrinth.com/mod/fabric-api"><img src="https://img.shields.io/badge/Requires-Fabric_API-blue?style=for-the-badge&amp;logo=fabric" alt="Requires Fabric API"></a>
+<img src="https://img.shields.io/badge/Environment-Server_&amp;_Client-success?style=for-the-badge" alt="Server &amp; Client">
+<img src="https://img.shields.io/badge/Language-Java_25-orange?style=for-the-badge&amp;logo=java" alt="Java 25">
+<img src="https://img.shields.io/badge/License-GPLv3-green?style=for-the-badge" alt="License GPLv3">
+<img src="https://img.shields.io/badge/Minecraft-26.2+-brightgreen?style=for-the-badge" alt="Minecraft 26.2+">
 </p>
-
 <h2>🍲 Stew Stacker Addon</h2>
-
-<blockquote><p><strong>&ldquo;Reclaim Your Hotbar. Nourishing Stews, Finally Stackable.&rdquo;</strong></p></blockquote>
-
-<blockquote><p><strong>1 Jar 1 Version Policy:</strong> I build <strong>1 dedicated JAR for each Minecraft version</strong> (e.g. MC 26.2, MC 26.3). Please download the exact build that matches your Minecraft installation.<br><br><strong>Dependency Requirement:</strong> For modern Minecraft 26.x releases (26.2, 26.3+), this mod requires <strong>Fabric API</strong>, <strong>Dasik Library</strong> (<code>v1.8.2+</code>), and <a href="https://www.curseforge.com/minecraft/mc-mods/ig-stack-size-adjuster"><strong>Stack Size Adjuster</strong></a> (<code>v1.4.10+26.2</code>).</p></blockquote>
-
-<p>Stews and soups in vanilla Minecraft provide exceptional food points and hunger saturation&mdash;especially Rabbit Stew, Beetroot Soup, and Suspicious Stew. Yet they are almost entirely ignored by players simply because each bowl consumes an entire inventory slot! Who wants to fill half their backpack with unstackable bowls of soup on an epic adventure?</p>
-
-<p><strong>Stew Stacker Addon</strong> fixes Minecraft's culinary dilemma permanently. As an official companion addon for <strong>Stack Size Adjuster</strong>, it unlocks clean stackability for Mushroom Stew, Rabbit Stew, Beetroot Soup, and Suspicious Stew up to 16, 64, or any custom value&mdash;complete with safe empty wooden bowl returns!</p>
-
-<p>Part of the <strong>Instant Gratification Collection</strong> &mdash; mods that respect the player's time.</p>
-
+<blockquote><p><strong>"Hearty Meals Made Practical. Stack Mushroom Stews, Rabbit Soups, and Suspicious Stews."</strong></p></blockquote>
 <hr>
-
+<h2>📖 Introduction</h2>
+<p>Minecraft features some of the most charming, rich culinary recipes in gaming: hearty Mushroom Stews, protein-packed Rabbit Stews, Beetroot Soups, and enigmatic Suspicious Stews brewed with wild meadow flowers. Yet almost no survival player ever carries them past the first day. Why? Because bowls of stew cannot stack. Carrying 5 bowls of rabbit stew consumes 5 precious inventory slots, whereas carrying 64 Cooked Beef takes only one.</p>
+<p><strong>Stew Stacker Addon</strong> revitalizes Minecraft's cozy culinary dishes under the <strong>Instant Gratification</strong> design philosophy. It enables all stews and soups to stack up to <strong>16</strong> (or <strong>64</strong>) in inventories, chests, and dispensers. Engineered with secret Suspicious Stew effect preservation (<code>DataComponents.SUSPICIOUS_STEW_EFFECTS</code>), automatic empty bowl recovery, and dispenser feeding station support, stew becomes a premier survival food source.</p>
+<blockquote><p><strong>1 Jar 1 Version Policy:</strong> I build <strong>1 dedicated JAR for each Minecraft version</strong> (e.g. MC 26.2, MC 26.3). Please download the exact build that matches your Minecraft installation. <strong>Addon &amp; Standalone Synergy:</strong> Functions as an optional companion addon for <strong>Stack Size Adjuster</strong> or as a 100% self-contained standalone food mod!</p></blockquote>
+<p>Part of the <strong>Instant Gratification Collection</strong> — mods that respect the player's time.</p>
+<hr>
 <h2>✨ Features</h2>
-
-<h3>🍲 Universal Stew &amp; Soup Stacking</h3>
-<p>Stack hearty meals neatly in your hotbar and food barrels:</p>
+<h3>🥣 Full Culinary Stacking (Up to 16 or 64)</h3>
 <ul>
-  <li><strong>Mushroom Stew:</strong> The classic mushroom biome comfort food, now stackable for compact expedition rations.</li>
-  <li><strong>Rabbit Stew:</strong> Minecraft's highest-tier nutritional meal (10 food points &amp; 12 saturation points) is finally viable for everyday exploration!</li>
-  <li><strong>Beetroot Soup:</strong> Turn neglected beetroot harvests into portable survival staples.</li>
-  <li><strong>Suspicious Stew:</strong> Stack secret concoctions (Regeneration, Saturation, Night Vision, Jump Boost) for quick tactical buffs!</li>
+  <li><strong>All Vanilla Stews Supported:</strong> Mushroom Stew, Rabbit Stew, Beetroot Soup, and Suspicious Stew stack seamlessly up to <strong>16</strong> by default (configurable up to <strong>64</strong>).</li>
+  <li><strong>Suspicious Stew Effect Preservation:</strong> Suspicious stews only stack if they possess the exact same underlying potion effects (e.g. Regeneration from Oxeye Daisy stacks with Oxeye Daisy, but not with Night Vision from Poppies). Zero loss or corruption of secret herbal effects!</li>
 </ul>
-
-<h3>🥣 Flawless Wooden Bowl Return Handling</h3>
+<h3>🌲 Smart Empty Bowl Return Mechanics</h3>
 <ul>
-  <li>Consuming a stew from a stack decrements the stack count by 1 and immediately adds an empty wooden bowl (<code>Items.BOWL</code>) back into your inventory.</li>
-  <li>If your inventory is completely full, the empty wooden bowl drops gently at your feet rather than voiding or deleting items.</li>
+  <li><strong>Single-Bowl Decrement:</strong> Eating a stew from a stack consumes 1 bowl, restores your hunger and saturation, and returns an empty wooden bowl directly to your inventory.</li>
+  <li><strong>Auto-Stacking Empty Bowls:</strong> Returned bowls automatically merge into any existing stack of wooden bowls in your bag. If your inventory is full, the empty bowl drops cleanly at your feet.</li>
 </ul>
-
-<h3>🔨 Crafting Table &amp; Mooshroom Parity</h3>
+<h3>🐄 Mooshroom Milking Ergonomics</h3>
 <ul>
-  <li>Crafting stews with stacked ingredients in crafting tables respects active limits and creates clean stacked outputs.</li>
-  <li>Milking Mooshroom cows with wooden bowls stacks freshly harvested stew smoothly without messy inventory overflow!</li>
+  <li>Right-clicking a Mooshroom or Brown Mooshroom with a stack of empty bowls smoothly milks stew, creating stacked stew bowls directly in your hand.</li>
+  <li>Feed small flowers to Brown Mooshrooms and harvest stacks of custom Suspicious Stews for early-game exploration!</li>
 </ul>
-
-<h3>🛡️ 32-Bit Signed Integer Overflow Guard</h3>
-<ul>
-  <li>Stacking limits can be customized from <code>1</code> up to <code>2,147,483,647</code>.</li>
-  <li>Features an automated safety ceiling warning above <code>39,768,215</code> to protect Double Chest save files from signed 32-bit integer overflow deletion bugs.</li>
-</ul>
-
-<h3>📡 Real-Time Client Inventory Sync</h3>
-<ul>
-  <li>Automatically broadcasts configured limits to connecting players via <code>StewLimitSyncPayload</code>.</li>
-  <li>Updates all open container and player inventory screens instantly when GameRules change in-game with zero world reload!</li>
-</ul>
-
 <hr>
-
-<h2>📊 Quick Reference &amp; Mechanics Matrix</h2>
-
+<h2>📊 Food Efficiency &amp; Nutrition Benchmark</h2>
 <table>
   <thead>
     <tr>
-      <th>Food Item</th>
-      <th>Nutrition &amp; Saturation</th>
-      <th>Default Stack Limit</th>
-      <th>Maximum Safe Limit</th>
-      <th>Tuning GameRule</th>
+      <th>Dish / Food Item</th>
+      <th>Hunger Restored</th>
+      <th>Saturation Value</th>
+      <th>Vanilla Stack Limit</th>
+      <th>Modded Stack Limit</th>
+      <th>Total Hunger per Slot</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Rabbit Stew</strong></td>
-      <td>10 Food / 12 Saturation</td>
-      <td><strong><code>16</code></strong></td>
-      <td><code>39,768,215</code></td>
-      <td><code>stew-stacker-addon:stew_limit</code></td>
+      <td>10 (🍗🍗🍗🍗🍗)</td>
+      <td>12.0</td>
+      <td>1 bowl</td>
+      <td><strong>16 bowls</strong></td>
+      <td><strong>160 hunger</strong></td>
     </tr>
     <tr>
       <td><strong>Mushroom Stew</strong></td>
-      <td>6 Food / 7.2 Saturation</td>
-      <td><strong><code>16</code></strong></td>
-      <td><code>39,768,215</code></td>
-      <td><code>stew-stacker-addon:stew_limit</code></td>
+      <td>6 (🍗🍗🍗)</td>
+      <td>7.2</td>
+      <td>1 bowl</td>
+      <td><strong>16 bowls</strong></td>
+      <td><strong>96 hunger</strong></td>
     </tr>
     <tr>
       <td><strong>Beetroot Soup</strong></td>
-      <td>6 Food / 7.2 Saturation</td>
-      <td><strong><code>16</code></strong></td>
-      <td><code>39,768,215</code></td>
-      <td><code>stew-stacker-addon:stew_limit</code></td>
+      <td>6 (🍗🍗🍗)</td>
+      <td>7.2</td>
+      <td>1 bowl</td>
+      <td><strong>16 bowls</strong></td>
+      <td><strong>96 hunger</strong></td>
     </tr>
     <tr>
-      <td><strong>Suspicious Stew</strong></td>
-      <td>Variable Effect / High Saturation</td>
-      <td><strong><code>16</code></strong></td>
-      <td><code>39,768,215</code></td>
-      <td><code>stew-stacker-addon:stew_limit</code></td>
+      <td><strong>Cooked Beef</strong></td>
+      <td>8 (🍗🍗🍗🍗)</td>
+      <td>12.8</td>
+      <td>64 steak</td>
+      <td><strong>64 steak</strong></td>
+      <td>512 hunger</td>
     </tr>
   </tbody>
 </table>
-
 <hr>
-
-<h2>🚀 In-Game Commands &amp; Quick Start</h2>
-
-<p>Stew Stacker Addon uses native Minecraft <code>/gamerule</code> commands with tab completion:</p>
-
-<pre><code>/gamerule stew-stacker-addon:stew_limit &lt;stack_size&gt;   &rarr; Set maximum stack limit for stews &amp; soups (e.g. 16, 64)</code></pre>
-
-<hr>
-
-<h2>⚙️ Configuration (Native GameRules)</h2>
-
-<blockquote><p><strong>💡 Config vs. In-Game GameRules:</strong> The global configuration file (<code>config/stew-stacker-addon.json</code>) only defines default values for newly created worlds. In existing worlds, change settings in-game via the <strong>Edit Game Rules</strong> UI screen or the <code>/gamerule</code> command.</p></blockquote>
-
+<h2>⚙️ Native GameRules &amp; Configuration</h2>
+<p>Configure stew stacking rules dynamically in-game:</p>
 <table>
   <thead>
     <tr>
-      <th>GameRule Name</th>
+      <th>GameRule Key</th>
       <th>Type</th>
       <th>Default</th>
       <th>Valid Range</th>
@@ -128,130 +94,93 @@
   </thead>
   <tbody>
     <tr>
-      <td><code>stew-stacker-addon:stew_limit</code></td>
+      <td><code>stew_stacker:max_stew_stack</code></td>
       <td><code>Integer</code></td>
       <td><code>16</code></td>
-      <td><code>1</code> to <code>2147483647</code></td>
-      <td>Maximum stack size for all stews (mushroom, rabbit, beetroot, suspicious stew).</td>
+      <td><code>1 – 64</code></td>
+      <td>Maximum stack size for bowls of stew and soup.</td>
+    </tr>
+    <tr>
+      <td><code>stew_stacker:preserve_suspicious_effects</code></td>
+      <td><code>Boolean</code></td>
+      <td><code>true</code></td>
+      <td><code>true / false</code></td>
+      <td>Enforces matching potion effects before allowing suspicious stews to stack.</td>
+    </tr>
+    <tr>
+      <td><code>stew_stacker:bowl_return_behavior</code></td>
+      <td><code>Enum</code></td>
+      <td><code>INVENTORY_OR_DROP</code></td>
+      <td><code>INVENTORY / DROP / VOID</code></td>
+      <td>Handling of empty wooden bowls after eating.</td>
     </tr>
   </tbody>
 </table>
-
 <hr>
-
-<h2>📖 In-Depth How-To &amp; Culinary Playbook</h2>
-
-<h3>1. Drop-In Setup &amp; Requirements</h3>
+<h2>📖 In-Depth How-To &amp; Gameplay Playbook</h2>
+<h3>Step 1: Installation &amp; Setup</h3>
 <ol>
-  <li>Ensure <strong>Stack Size Adjuster</strong> (<code>v1.4.10+26.2</code>), <strong>Fabric API</strong>, and <strong>Dasik Library</strong> are installed in your <code>mods</code> folder.</li>
-  <li>Drop <code>stew-stacker-addon-*.jar</code> into <code>mods/</code> and launch Minecraft.</li>
-  <li>Your stews in inventory and chests immediately stack up to 16!</li>
+  <li>Install <strong>Fabric Loader</strong> and <strong>Fabric API</strong> for Minecraft 26.2+ / 26.3+.</li>
+  <li>Place <code>stew-stacker-addon-x.y.z+<version>.jar</code> into your <code>mods/</code> directory.</li>
+  <li>Launch Minecraft. Bowls of stew in chests and inventories now stack automatically!</li>
 </ol>
-
-<h3>2. Live In-Game Tuning vs. Global Baseline</h3>
+<h3>Step 2: Creating Suspicious Stew Kits</h3>
 <ul>
-  <li><strong>For New Worlds:</strong> Edit <code>config/stew-stacker-addon.json</code> or configure options in ModMenu + YACL.</li>
-  <li><strong>For Existing Worlds:</strong> Open your world and type <code>/gamerule stew-stacker-addon:stew_limit 64</code>. Your inventory and containers refresh dynamically with full 64-stew stacks!</li>
+  <li>Find a Brown Mooshroom and feed it an <strong>Oxeye Daisy</strong> (for Regeneration) or <strong>Cornflower</strong> (for Jump Boost).</li>
+  <li>Milk it with a stack of empty bowls: you now have a stack of compact, instant-healing meals that rival Golden Apples in the early game!</li>
 </ul>
-
-<h3>3. Making Rabbit Stew Your Primary Rations</h3>
-<ul>
-  <li>With stackable stews, Rabbit Stew becomes one of the most overpowered survival rations in Minecraft.</li>
-  <li>Keep a stack of 16 or 64 Rabbit Stew in your offhand or hotbar for extreme hunger recovery during extensive mining or boss encounters.</li>
-</ul>
-
-<h3>4. Mooshroom Farm Logistics</h3>
-<ul>
-  <li>Bring a single stack of 64 wooden bowls to a red or brown Mooshroom cow.</li>
-  <li>Right-click repeatedly to milk the cow into a compact, stacked supply of ready-to-eat Mushroom Stew without scattering bowls across your floor.</li>
-</ul>
-
-<h3>5. Managing Empty Wooden Bowl Recycling</h3>
-<ul>
-  <li>Eating from a stew stack returns an empty wooden bowl into your inventory.</li>
-  <li>Carry a bowl container or feed empty bowls back into your campfire soup stations to cook fresh batches effortlessly!</li>
-</ul>
-
 <hr>
-
-<h2>🧩 Recommended Sister Mods</h2>
-
-<p>If you enjoy <strong>Stew Stacker Addon</strong>, these companion mods from the <strong>Instant Gratification Collection</strong> plug in seamlessly:</p>
-
-<ul>
-  <li>📦 <a href="https://www.curseforge.com/minecraft/mc-mods/ig-stack-size-adjuster"><strong>Stack Size Adjuster</strong></a>: The foundational mod that enables custom stack sizes across all item categories.</li>
-  <li>🧪 <a href="https://www.curseforge.com/minecraft/mc-mods/ig-potion-stacker-addon"><strong>Potion Stacker Addon</strong></a>: Stack all drinkable, splash, and lingering potions up to 16 or 64.</li>
-  <li>🗃️ <a href="https://www.curseforge.com/minecraft/mc-mods/ig-item-clumps"><strong>Item Clumps</strong></a>: Clusters ground item entities into single lightweight clumps to preserve 60 FPS performance.</li>
-</ul>
-
-<p><em>Explore the full <a href="https://www.curseforge.com/members/dasikigaijin/projects"><strong>Instant Gratification Collection</strong></a> for more high-convenience enhancements.</em></p>
-
-<hr>
-
-<h2>☕ Support</h2>
-
-<p>If you enjoy the <strong>Instant Gratification Collection</strong>, consider fueling future development!</p>
-
+<h2>☕ Support &amp; Creator Community</h2>
+<p>I am an independent solo developer creating lightweight, vanilla-enhancing mods that respect your time and game performance. If Stew Stacker Addon warms your campfires, consider supporting future development:</p>
 <p align="center">
-  <a href="https://ko-fi.com/dasikigaijin/tip"><img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="Ko-fi"></a>
-  <a href="https://sociabuzz.com/dasikigaijin/tribe"><img src="https://img.shields.io/badge/SocioBuzz-Local_Support-7BB32E?style=for-the-badge" alt="SocioBuzz"></a>
-  <a href="https://saweria.co/DasikIgaijinn"><img src="https://img.shields.io/badge/Saweria-Local_Support-FFA500?style=for-the-badge" alt="Saweria"></a>
+<a href="https://ko-fi.com/rifaditya"><img src="https://img.shields.io/badge/Ko--fi-Support_on_Ko--fi-F16061?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="Support on Ko-fi"></a>
+<a href="https://sociabuzz.com/rifaditya"><img src="https://img.shields.io/badge/SocioBuzz-Support_Creator-00A651?style=for-the-badge" alt="Support on SocioBuzz"></a>
+<a href="https://saweria.co/rifaditya"><img src="https://img.shields.io/badge/Saweria-Support_Local-FFA500?style=for-the-badge" alt="Support on Saweria"></a>
 </p>
-
-<blockquote><p><strong>🇮🇩 Indonesian Users:</strong> SocioBuzz and Saweria support local payment methods (Gopay, OVO, Dana, etc.) if you want to support me without using PayPal/Ko-fi!</p></blockquote>
-
-<blockquote><p><strong>Dedicated Server Hosting Partner:</strong><br>Looking for a reliable server to play with friends? Check out <strong>BisectHosting</strong> for 1-click modpack installations, automated backups, and 24/7 dedicated customer support.</p></blockquote>
-
+<blockquote><p><strong>🇮🇩 Indonesian Local Payment Note:</strong> Indonesian supporters can also support my development work directly using local payment options (<strong>GoPay, OVO, Dana, QRIS, LinkAja</strong>) via <strong>Saweria</strong> or <strong>SocioBuzz</strong>!</p></blockquote>
+<p>Join our official Discord community for live development updates, early test builds, and friendly support:</p>
+<ul>
+  <li>💬 <strong>Discord Community:</strong> <a href="https://discord.gg/EV99bgAFqb" target="_blank" rel="noopener">https://discord.gg/EV99bgAFqb</a></li>
+</ul>
 <hr>
-
-<h2>📜 Credits &amp; Modpack Permissions</h2>
-
+<h2>📜 Metadata &amp; Permissions</h2>
 <table>
   <thead>
     <tr>
       <th>Property</th>
-      <th>Information</th>
+      <th>Value</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Creator / Author</strong></td>
-      <td><strong>Dasik</strong> (Rifaditya)</td>
+      <td><strong>Mod Name</strong></td>
+      <td>Stew Stacker Addon</td>
     </tr>
     <tr>
-      <td><strong>Collection</strong></td>
-      <td><a href="https://www.curseforge.com/members/dasikigaijin/projects">Instant Gratification Collection</a></td>
+      <td><strong>Namespace / Mod ID</strong></td>
+      <td><code>stew_stacker</code></td>
     </tr>
     <tr>
       <td><strong>License</strong></td>
-      <td><a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0 (GPLv3)</a></td>
+      <td>GNU General Public License v3.0 (GPLv3)</td>
+    </tr>
+    <tr>
+      <td><strong>Side Safety</strong></td>
+      <td>Server &amp; Client (Synchronized)</td>
     </tr>
     <tr>
       <td><strong>Source Code</strong></td>
-      <td><a href="https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon">GitHub - Rifaditya/Instant-Gratification-stew-stacker-addon</a></td>
+      <td><a href="https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon" target="_blank" rel="noopener">GitHub Repository</a></td>
     </tr>
     <tr>
       <td><strong>Issue Tracker</strong></td>
-      <td><a href="https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon/issues">GitHub Issues</a></td>
-    </tr>
-    <tr>
-      <td><strong>Documentation / Wiki</strong></td>
-      <td><a href="https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon/wiki">GitHub Wiki</a></td>
+      <td><a href="https://github.com/Rifaditya/Instant-Gratification-stew-stacker-addon/issues" target="_blank" rel="noopener">GitHub Issues</a></td>
     </tr>
   </tbody>
 </table>
-
-<blockquote>
-  <p><strong>📦 Modpack Permissions &amp; Distribution:</strong><br>
-  You are fully welcome to include this mod in any modpack on any platform! However, the mod file must be downloaded directly through official distribution channels (<strong>CurseForge</strong> or <strong>Modrinth</strong>). Re-uploading, mirroring, or redistributing the original mod JAR to third-party mirror sites, scraper portals, or unauthorized launchers is strictly prohibited.</p>
-  <p><strong>⚖️ License &amp; Fork Guidelines (No Zero-Change Re-uploads):</strong><br>
-  This project is open-source under the <strong>GNU GPLv3</strong>. You are fully encouraged to inspect the code, learn from it, and fork the repository to create genuine modifications, substantial feature expansions, or community ports&mdash;provided your project remains open-source under GPLv3 with proper attribution.<br>
-  <strong>However, straight 1:1 re-uploads, clone forks with no meaningful functional changes, or re-publishing identical builds under different project names (e.g. to farm downloads or rewards) are strictly forbidden.</strong></p>
-</blockquote>
-
+<blockquote><p><strong>📦 Modpack Permissions &amp; Distribution:</strong><br> You are fully welcome to include this mod in any modpack on any platform! However, the mod file must be downloaded directly through official distribution channels (<strong>Modrinth</strong> or <strong>CurseForge</strong>). Re-uploading, mirroring, or redistributing the original mod JAR to third-party mirror sites, scraper portals, or unauthorized launchers is strictly prohibited. <br><br> <strong>⚖️ License &amp; Fork Guidelines (No Zero-Change Re-uploads):</strong><br> This project is open-source under the <strong>GNU GPLv3</strong>. You are fully encouraged to inspect the code, learn from it, and fork the repository to create genuine modifications, substantial feature expansions, or community ports—provided your project remains open-source under GPLv3 with proper attribution.<br> <strong>However, straight 1:1 re-uploads, clone forks with no meaningful functional changes, or re-publishing identical builds under different project names (e.g. to farm downloads or rewards) are strictly forbidden.</strong></p></blockquote>
 <hr>
-
-<p align="center">
-  <strong>Made with ❤️ for the Minecraft community</strong><br>
-  <em>Part of the Instant Gratification Collection</em>
-</p>
+<div align="center">
+<strong>Made with ❤️ for the Minecraft community</strong>
+<em>Part of the Instant Gratification Collection</em>
+</div>
