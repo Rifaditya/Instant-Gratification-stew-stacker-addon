@@ -44,6 +44,10 @@
                 "modmenu.donate": "https://ko-fi.com/dasikigaijin",
                 "modmenu.kofi": "https://ko-fi.com/dasikigaijin"
             }
+        },
+        "modrinth": {
+            "projectId": "kwGC64eU",
+            "slug": "ig-stew-stacker-addon"
         }
     }
 }
