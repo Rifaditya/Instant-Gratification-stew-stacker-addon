@@ -16,7 +16,7 @@ This file tracks planned features, technical refinements, performance optimizati
 | [`BL-SSA-003`](tickets/BL-SSA-003.md) | `[TECH_DEBT]` | Adopt 5-Pillar Testing & Sidedness Verification Harness | `[MEDIUM]` | All Anchors | `📌 DEFERRED` | [View Ticket](tickets/BL-SSA-003.md) |
 | [`BL-SSA-004`](tickets/BL-SSA-004.md) | `[TECH_DEBT]` | Migrate Client Configuration GUI to UniversalConfigScreen | `[MEDIUM]` | All Anchors | `📌 DEFERRED` | [View Ticket](tickets/BL-SSA-004.md) |
 | [`BL-SSA-005`](tickets/BL-SSA-005.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.21.11 (Transitional Modern Anchor) | `[HIGH]` | `1.21.11` | `✅ RESOLVED` | [View Ticket](tickets/BL-SSA-005.md) |
-| [`BL-SSA-006`](tickets/BL-SSA-006.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.21.1 (Transitional Modern Anchor) | `[HIGH]` | `1.21.1` | `📌 DEFERRED` | [View Ticket](tickets/BL-SSA-006.md) |
+| [`BL-SSA-006`](tickets/BL-SSA-006.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.21.1 (Transitional Modern Anchor) | `[HIGH]` | `1.21.1` | `✅ RESOLVED` | [View Ticket](tickets/BL-SSA-006.md) |
 | [`BL-SSA-007`](tickets/BL-SSA-007.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.20.1 (Legacy LTS Anchor) | `[HIGH]` | `1.20.1` | `📌 DEFERRED` | [View Ticket](tickets/BL-SSA-007.md) |
 
 ---

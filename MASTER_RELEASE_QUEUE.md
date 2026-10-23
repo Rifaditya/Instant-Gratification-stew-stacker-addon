@@ -13,6 +13,7 @@
 | **MC 26.2** | Modern Predecessor | *(Unreleased)* | `1.0.0+26.2` | 🟢 **Ready to Publish** | Initial release with independent custom stack limits (`1.0.1+26.2`, `1.0.2+26.2` queued next). |
 | **MC 26.1.2** | Modern Sovereign Lead | *(Unreleased)* | `1.0.0+26.1.2` | 🟢 **Ready to Publish** | Modern sovereign lead anchor release with dynamic stew limits and Stack Size Adjuster integration. |
 | **MC 1.21.11** | Transitional Modern Anchor | *(Unreleased)* | `1.0.0+1.21.11` | 🟢 **Ready to Publish** | Transitional modern anchor release with dynamic stew limits and Stack Size Adjuster integration. |
+| **MC 1.21.1** | Transitional Modern Anchor | *(Unreleased)* | `1.0.0+1.21.1` | 🟢 **Ready to Publish** | Transitional modern anchor release with dynamic stew limits and Stack Size Adjuster integration. |
 
 ---
 
