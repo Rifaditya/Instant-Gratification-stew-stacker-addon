@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "package": "net.instantgratification.stewstacker.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [
+        "BowlFoodItemMixin",
+        "SuspiciousStewItemMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

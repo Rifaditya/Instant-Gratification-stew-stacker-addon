@@ -14,6 +14,7 @@
 | **MC 26.1.2** | Modern Sovereign Lead | *(Unreleased)* | `1.0.0+26.1.2` | 🟢 **Ready to Publish** | Modern sovereign lead anchor release with dynamic stew limits and Stack Size Adjuster integration. |
 | **MC 1.21.11** | Transitional Modern Anchor | *(Unreleased)* | `1.0.0+1.21.11` | 🟢 **Ready to Publish** | Transitional modern anchor release with dynamic stew limits and Stack Size Adjuster integration. |
 | **MC 1.21.1** | Transitional Modern Anchor | *(Unreleased)* | `1.0.0+1.21.1` | 🟢 **Ready to Publish** | Transitional modern anchor release with dynamic stew limits and Stack Size Adjuster integration. |
+| **MC 1.20.1** | Legacy LTS Anchor | *(Unreleased)* | `1.0.0+1.20.1` | 🟢 **Ready to Publish** | Legacy LTS anchor release with dynamic stew limits, bowl consumption recovery mixin, and Stack Size Adjuster integration. |
 
 ---
 
