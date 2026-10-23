@@ -4,7 +4,7 @@
 - **Category**: `[FEATURE]`
 - **Priority**: `[HIGH]`
 - **Scope**: `MC 1.21.11` (Java 21, Transitional Modern Anchor, SDL3)
-- **Status**: `📌 DEFERRED`
+- **Status**: `✅ RESOLVED`
 - **Target Repository / Root**: `Instant Gratification Collection/Stew Stacker Addon`
 - **Parent Master Ticket**: [`BL-SSA-001`](tickets/BL-SSA-001.md)
 
@@ -61,9 +61,9 @@ In-game behavior before vs. after:
 ---
 
 ## 🏁 6. 5-Pillar Verification Checklist
-- [ ] **Pillar 1 (Chaos Fuzzing)**: Fuzzing tests pass for config limits.
-- [ ] **Pillar 2 (Concurrency Load)**: Atomic state access thread-safe.
-- [ ] **Pillar 3 (Brigadier AST)**: GameRules dynamically registered.
-- [ ] **Pillar 4 (GameTest)**: Server events trigger without crash.
-- [ ] **Pillar 5 (Sidedness & Hygiene)**: 0 client imports in common code; single-line GPLv3 header.
-- [ ] **Anchor Compilation**: Clean `./gradlew test build remapJar` on `Stew Stacker Addon v1.21.11`.
+- [x] **Pillar 1 (Chaos Fuzzing)**: Dynamic stack size overrides tested and bounded.
+- [x] **Pillar 2 (Concurrency Load)**: Volatile atomic state access thread-safe across server lifecycle.
+- [x] **Pillar 3 (Brigadier AST)**: GameRules dynamically registered via DynamicGameRuleManager with change callbacks.
+- [x] **Pillar 4 (GameTest)**: Server events trigger without crash.
+- [x] **Pillar 5 (Sidedness & Hygiene)**: 0 client imports in common code; 100% single-line GPLv3 headers.
+- [x] **Anchor Compilation**: Clean `./gradlew test build remapJar` on `Stew Stacker Addon v1.21.11`.
