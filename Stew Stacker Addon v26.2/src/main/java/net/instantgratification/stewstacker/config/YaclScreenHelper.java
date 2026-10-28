@@ -5,9 +5,12 @@ package net.instantgratification.stewstacker.config;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import dev.isxander.yacl3.api.*;
 import dev.isxander.yacl3.api.controller.IntegerFieldControllerBuilder;
+import net.fabricmc.api.EnvType;
+import net.fabricmc.api.Environment;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 
+@Environment(EnvType.CLIENT)
 public class YaclScreenHelper {
     public static ConfigScreenFactory<?> createScreen() {
         return YaclScreenHelper::buildScreen;
