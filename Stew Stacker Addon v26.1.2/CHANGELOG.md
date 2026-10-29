@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.0.3+26.1.2] - 2026-10-29
+
+### Changed
+- Migrated client configuration GUI to UniversalConfigScreen for zero-boilerplate YACL integration and automated creator support buttons.
+
 ## [1.0.0+26.1.2] - 2026-10-23
 
 ### Added

@@ -5,4 +5,6 @@ Open this file in your editor and change `[ ]` to `[x]` when you publish a versi
 
 ## 🚀 Published & Backlog Queue
 
+- [ ] **`1.0.3+26.1.2`** (2026-10-29) - Migrate Client Configuration GUI to UniversalConfigScreen.
+
 - [ ] **`1.0.0+26.1.2`** (2026-10-23) - Multi-Era Anchor Port (MC 26.1.2). - Modern sovereign lead anchor release with dynamic stew limits and Stack Size Adjuster integration.

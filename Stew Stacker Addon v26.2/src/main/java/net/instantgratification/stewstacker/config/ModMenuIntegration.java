@@ -1,18 +1,16 @@
 // Copyright (C) 2026 Dasik (Rifaditya) | GNU GPLv3
 package net.instantgratification.stewstacker.config;
 
-// Verified against: ModMenuIntegration.java (26.2+)
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
-import net.dasik.social.api.config.GuiHelper;
+import net.dasik.social.api.client.gui.UniversalConfigScreen;
+import net.fabricmc.api.EnvType;
+import net.fabricmc.api.Environment;
 
+@Environment(EnvType.CLIENT)
 public class ModMenuIntegration implements ModMenuApi {
     @Override
     public ConfigScreenFactory<?> getModConfigScreenFactory() {
-        return GuiHelper.getOptionalYaclFactory(
-            "stew-stacker-addon",
-            "net.instantgratification.stewstacker.config.YaclScreenHelper",
-            "createScreen"
-        );
+        return UniversalConfigScreen.createFactory("stew-stacker-addon", StewStackerConfig.get(), StewStackerConfig::save);
     }
 }
