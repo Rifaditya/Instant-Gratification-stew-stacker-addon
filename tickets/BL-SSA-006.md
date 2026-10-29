@@ -6,7 +6,7 @@
 - **Scope**: `MC 1.21.1` (Java 21, Transitional Modern Anchor, DataComponents)
 - **Status**: `✅ RESOLVED`
 - **Target Repository / Root**: `Instant Gratification Collection/Stew Stacker Addon`
-- **Parent Master Ticket**: [`BL-SSA-001`](tickets/BL-SSA-001.md)
+- **Parent Master Ticket**: [`BL-SSA-001`](BL-SSA-001.md)
 
 ---
 

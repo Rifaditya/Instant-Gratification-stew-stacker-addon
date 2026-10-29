@@ -6,7 +6,7 @@
 - **Scope**: `MC 1.20.1` (Java 17, Legacy LTS Anchor, Mojang Mappings)
 - **Status**: `✅ RESOLVED`
 - **Target Repository / Root**: `Instant Gratification Collection/Stew Stacker Addon`
-- **Parent Master Ticket**: [`BL-SSA-001`](tickets/BL-SSA-001.md)
+- **Parent Master Ticket**: [`BL-SSA-001`](BL-SSA-001.md)
 
 ---
 

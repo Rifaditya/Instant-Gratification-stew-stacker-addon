@@ -6,7 +6,7 @@
 - **Scope**: `MC 26.1.2` (Java 25, Modern Sovereign Lead)
 - **Status**: `✅ RESOLVED`
 - **Target Repository / Root**: `Instant Gratification Collection/Stew Stacker Addon`
-- **Companion Tickets**: [`BL-SSA-005`](tickets/BL-SSA-005.md) (MC 1.21.11), [`BL-SSA-006`](tickets/BL-SSA-006.md) (MC 1.21.1), [`BL-SSA-007`](tickets/BL-SSA-007.md) (MC 1.20.1)
+- **Companion Tickets**: [`BL-SSA-005`](BL-SSA-005.md) (MC 1.21.11), [`BL-SSA-006`](BL-SSA-006.md) (MC 1.21.1), [`BL-SSA-007`](BL-SSA-007.md) (MC 1.20.1)
 
 ---
 
