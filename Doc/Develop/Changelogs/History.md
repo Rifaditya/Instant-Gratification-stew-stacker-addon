@@ -38,3 +38,25 @@ This ledger tracks technical development milestones, architectural refactors, an
     - Automated source scanner asserting 0 `net.minecraft.client.*` imports inside common codebase, proper `@Environment(EnvType.CLIENT)` guarding, and 100% compliant single-line GPLv3 license headers (`// Copyright (C) 2026 Dasik (Rifaditya) | GNU GPLv3`).
   - **Full Multi-Era Anchor Parity (6/6 Anchors)**:
     - 100% green test execution with zero warnings/failures across MC 1.20.1, 1.21.1, 1.21.11, 26.1.2, 26.2, and 26.3.
+
+---
+
+## 🏁 [BL-SSA-004] Migrate Client Configuration GUI to UniversalConfigScreen (2026-10-29)
+- **Ticket ID**: [`BL-SSA-004`](../../../tickets/BL-SSA-004.md)
+- **Category**: `[TECH_DEBT]`
+- **Scope**: All Anchors (`1.20.1`, `1.21.1`, `1.21.11`, `26.1.2`, `26.2`, `26.3`)
+- **Status**: `✅ RESOLVED`
+- **Architectural Deliverables**:
+  - **Universal Zero-Boilerplate Client GUI Migration**:
+    - Replaced custom `YaclScreenHelper.java` implementations with centralized `UniversalConfigScreen.createFactory(StewStackerConfig.class)` across all 6 version anchors.
+    - Purged 80–150 lines of duplicate category, group, slider, and option-builder boilerplate per anchor.
+  - **Server-Safe `@ConfigOption` Annotations**:
+    - Annotated configuration fields (`stewLimit`) in `StewStackerConfig` using `net.dasik.social.api.config.ConfigOption`.
+    - Maintained 100% side-safety with zero client-side imports in common classes, safeguarding dedicated server environments from classloader crashes.
+  - **Embedded Creator Support & Live GameRule Sync**:
+    - Automated injection of creator support action buttons (`[Support on Ko-fi]` and `[Join Discord]`) into ModMenu config categories.
+    - Preserved real-time bidirectional GameRule synchronization pushing client adjustments to active server GameRules.
+  - **Multi-Era Lockstep Release (1.0.3)**:
+    - Bumped `mod_version` to `1.0.3+<mc>` across all 6 anchors (`1.20.1`, `1.21.1`, `1.21.11`, `26.1.2`, `26.2`, `26.3`).
+    - Commits: `92314bb` (modern lead anchors `26.1.2`, `26.2`, `26.3`) and `498e2ef` (multi-era anchors `1.20.1`, `1.21.1`, `1.21.11`).
+    - 100% clean test suites and headless verification pass across all anchors.
