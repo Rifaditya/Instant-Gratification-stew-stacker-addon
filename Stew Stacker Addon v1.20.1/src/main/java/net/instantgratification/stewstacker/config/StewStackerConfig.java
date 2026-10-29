@@ -17,12 +17,14 @@ public class StewStackerConfig {
     @ConfigOption(
         category = "general",
         group = "categories",
-        nameKey = "config.stew-stacker-addon.option.stew_limit",
-        descriptionKey = "config.stew-stacker-addon.option.stew_limit.description",
-        min = 1,
-        max = Integer.MAX_VALUE,
+        min = 1.0,
+        max = 2147483647.0,
+        step = 1.0,
+        slider = false,
         syncGameRule = true,
-        gameRuleName = "stew-stacker-addon:stew_limit"
+        gameRuleName = "stew-stacker-addon:stew_limit",
+        nameKey = "config.stew-stacker-addon.option.stew_limit",
+        descriptionKey = "config.stew-stacker-addon.option.stew_limit.description"
     )
     public int stewLimit = 16;
 
