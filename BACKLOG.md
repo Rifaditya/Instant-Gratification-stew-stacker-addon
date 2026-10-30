@@ -1,7 +1,7 @@
 # 📌 Stew Stacker Addon Backlog
 
-<!-- Highest Historical ID: BL-SSA-007 (Next Ticket Must Start at BL-SSA-008) -->
-> **Next Available Ticket ID**: `[BL-SSA-008]`
+<!-- Highest Historical ID: BL-SSA-008 (Next Ticket Must Start at BL-SSA-009) -->
+> **Next Available Ticket ID**: `[BL-SSA-009]`
 
 This file tracks planned features, technical refinements, performance optimizations, and deferred improvements for **Stew Stacker Addon**.
 
@@ -11,7 +11,7 @@ This file tracks planned features, technical refinements, performance optimizati
 
 | ID | Category | Title | Priority | Target Version | Status | Specification |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| — | — | *No active backlog items* | — | — | — | — |
+| [`BL-SSA-008`](tickets/BL-SSA-008.md) | `[GOVERNANCE]` | Storefront Reconciliation: Align Mod Pages with Current Public Release | `[HIGH]` | `Platform Pages` | `📌 DEFERRED` | [View Ticket](tickets/BL-SSA-008.md) |
 
 ---
 

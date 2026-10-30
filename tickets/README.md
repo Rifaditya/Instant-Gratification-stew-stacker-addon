@@ -1,7 +1,7 @@
 # 🎫 Stew Stacker Addon Tickets & Modular Backlog
 
-<!-- Highest Historical ID: BL-SSA-007 (Next Ticket Must Start at BL-SSA-008) -->
-> **Next Available Ticket ID**: `[BL-SSA-008]`
+<!-- Highest Historical ID: BL-SSA-008 (Next Ticket Must Start at BL-SSA-009) -->
+> **Next Available Ticket ID**: `[BL-SSA-009]`
 
 This directory houses dedicated atomic ticket specifications for **Stew Stacker Addon**.
 
@@ -14,3 +14,4 @@ This directory houses dedicated atomic ticket specifications for **Stew Stacker 
 | [`BL-SSA-005`](BL-SSA-005.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.21.11 (Transitional Modern Anchor) | `[HIGH]` | `1.21.11` | `✅ RESOLVED` | [BL-SSA-005.md](BL-SSA-005.md) |
 | [`BL-SSA-006`](BL-SSA-006.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.21.1 (Transitional Modern Anchor) | `[HIGH]` | `1.21.1` | `✅ RESOLVED` | [BL-SSA-006.md](BL-SSA-006.md) |
 | [`BL-SSA-007`](BL-SSA-007.md) | `[FEATURE]` | Multi-Era Anchor Port: MC 1.20.1 (Legacy LTS Anchor) | `[HIGH]` | `1.20.1` | `✅ RESOLVED` | [BL-SSA-007.md](BL-SSA-007.md) |
+| [`BL-SSA-008`](BL-SSA-008.md) | `[GOVERNANCE]` | Storefront Reconciliation: Align Mod Pages with Current Public Release | `[HIGH]` | `Platform Pages` | `📌 DEFERRED` | [BL-SSA-008.md](BL-SSA-008.md) |
